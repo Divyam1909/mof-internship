@@ -1,4 +1,8 @@
 # https://www.robotstxt.org/robotstxt.html
 User-agent: *
 Disallow:
+<<<<<<< HEAD
 chacko
+=======
+atharva
+>>>>>>> 631f677e5592f0f02c70705e2b12192db6c08d9d
