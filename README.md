@@ -71,6 +71,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 <<<<<<< HEAD
 
+<<<<<<< HEAD
+=======
+Hello
+>>>>>>> 85908d06381631846420d9ab327d11ec9dd3478b
 =======
 atharva1
 
